@@ -1,0 +1,58 @@
+{
+  "STLITI": {
+    "font_file": "STLITI.ttf",
+    "generated_at": "2025-11-07T18:03:48",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  },
+  "华文行楷": {
+    "font_file": "华文行楷.TTF",
+    "generated_at": "2025-11-07T18:03:50",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  },
+  "思源黑体": {
+    "font_file": "思源黑体.otf",
+    "generated_at": "2025-11-07T18:03:54",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  },
+  "方正舒体": {
+    "font_file": "方正舒体.TTF",
+    "generated_at": "2025-11-07T18:03:59",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  },
+  "汉仪铸体": {
+    "font_file": "汉仪铸体.ttf",
+    "generated_at": "2025-11-07T18:04:05",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  },
+  "江城圆体": {
+    "font_file": "江城圆体.ttf",
+    "generated_at": "2025-11-07T18:04:10",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  },
+  "隶书": {
+    "font_file": "隶书.TTF",
+    "generated_at": "2025-11-07T18:04:17",
+    "train_count": 998,
+    "test_count": 108,
+    "missing_count": 0,
+    "completed": true
+  }
+}
